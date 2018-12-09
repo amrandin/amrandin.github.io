@@ -4,7 +4,7 @@ title:  "Amran D"
 date:   2018-12-08 16:44:00 -0700
 categories: amran
 ---
-amran rocks.
+amran rocks!
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
