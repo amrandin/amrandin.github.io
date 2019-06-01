@@ -14,14 +14,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-# Name of website
----
-layout: post
-title: Amran Din, PhD - Research Blog... 
----
-
-
+title: "Amran Din, PhD - Research Blog..." 
 #title: "Amran Din' PhD Research Journal..."
 #title: "{ Computer Security | Machine Lerning }"
 description: "{ Computer Security | Machine Lerning }"
