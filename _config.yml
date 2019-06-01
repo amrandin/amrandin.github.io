@@ -16,10 +16,10 @@
 # in the templates via {{ site.myvariable }}.
 
 # Name of website
-title: Amran Din, PhD - Research Blog...
+title: Amran Din, PhD - Research Blog... { Computer Security | Machine Lerning }
 #title: "Amran Din' PhD Research Journal..."
-#title: "{ Computer Security | Machine Lerning }"
-description:  Computer Security | Machine Lerning
+title: "{ Computer Security | Machine Lerning }"
+description: "{ Computer Security | Machine Lerning }"
 #email: "amrandin@gmail.com"
 email: "amran@mynsu.nova.edu"
 baseurl: "/" # the subpath of your site, e.g. /blog
