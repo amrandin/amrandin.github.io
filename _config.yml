@@ -13,25 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-<<<<<<< HEAD
-title: Amran Din, PhD - Research Blog...
-email: amran@mynsu.nova.edu
-=======
-title: Amran Din, PhD - Research Blog
-email: amrandin@gmail.com
->>>>>>> parent of defeacd... Update _config.yml
-description: >- # this means to ignore newlines until "baseurl:"
-<<<<<<< HEAD
- "Computer Security  Usability  Data Science  Machine Lerning"
+
+title: "Amran Din, PhD - Research Blog..."
+email: "amran@mynsu.nova.edu"
+title: "Amran Din, PhD - Research Blog..."
+email: "amrandin@gmail.com"
+description: "Computer Security  Usability  Data Science  Machine Lerning"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://amrandin.github.io # the base hostname & protocol for your site, e.g. http://example.com
-=======
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
->>>>>>> parent of 4d662b2... Update _config.yml
+url: "https://amrandin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 # twitter_username: amrandin
 github_username: amrandin
 
