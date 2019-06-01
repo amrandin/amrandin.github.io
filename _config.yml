@@ -13,8 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+<<<<<<< HEAD
 title: Amran Din, PhD - Research Blog...
 email: amran@mynsu.nova.edu
+=======
+title: Amran Din, PhD - Research Blog
+email: amrandin@gmail.com
+>>>>>>> parent of defeacd... Update _config.yml
 description: >- # this means to ignore newlines until "baseurl:"
 Computer Security | Usability | Data Science | Machine Lerning
 baseurl: "/" # the subpath of your site, e.g. /blog
