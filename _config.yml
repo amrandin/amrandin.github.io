@@ -14,16 +14,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Amran Din, PhD - Research Blog..." 
-#title: "Amran Din' PhD Research Journal..."
-#title: "{ Computer Security | Machine Lerning }"
+title: "Amran Din, PhD - Research Blog..."
+
 description: "{ Computer Security | Machine Lerning }"
-#email: "amrandin@gmail.com"
 email: "amran@mynsu.nova.edu"
+
 baseurl: "/" # the subpath of your site, e.g. /blog
+
 url: "https://amrandin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: amrandin
 github_username: amrandin
+
 # Build settings
 markdown: kramdown
 theme: minima
