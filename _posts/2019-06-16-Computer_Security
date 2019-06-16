@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Hello World"
-date:   2019-06-16
+date:   2019-06-16 20:16:35 -0700
 categories: Computer Security
 ---
 Hello Computer Security!
-<a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
