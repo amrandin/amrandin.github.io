@@ -19,7 +19,7 @@ title: "Amran Din, PhD - Research Blog..."
 description: "{ Computer Security | Data Science }"
 email: "amran@mynsu.nova.edu"
 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/_posts" # the subpath of your site, e.g. /blog
 
 url: "https://amrandin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: amrandin
