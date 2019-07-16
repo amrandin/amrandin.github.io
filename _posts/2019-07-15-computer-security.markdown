@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to my BLOG..."
 date:   2019-07-15
-categories: Computer Security & Data Science
+categories: research
 ---
 Hello and welcome to my new BLOG on Computer Security and Data Science!
 I'm looking forward to sharing posts on my research. Stay tuned...
