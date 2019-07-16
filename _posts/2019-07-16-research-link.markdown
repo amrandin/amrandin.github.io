@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "test"
+title:  "Research Link"
 date:   2019-07-16
 categories: Research
 ---
